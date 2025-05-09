@@ -1,5 +1,5 @@
-streamlit
-phi
-groq
-duckduckgo-search
-python-dotenv
+streamlit==1.37.1
+phidata==2.7.10
+groq==0.20.0
+duckduckgo-search==7.5.2
+python-dotenv==1.0.1
