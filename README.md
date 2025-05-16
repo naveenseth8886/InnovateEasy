@@ -135,7 +135,4 @@ xAI: For providing the Groq API.
 Streamlit: For the intuitive web app framework.
 Render: For seamless cloud deployment.
 
-Contact
-For questions or feedback, reach out via LinkedIn or open an issue on GitHub.
 
-Built with 💻 and ☕ by [Your Name]
